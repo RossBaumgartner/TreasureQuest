@@ -1,8 +1,8 @@
 # TreasureQuest
 FINAL NETWORKING CPT for GRADE 12, worked with Mogen Cheng and Mark Abadir on this project. At the time, we did not use github.
 
-(This was programmed before we had learned object oriented, and does not represent our programming skill today, but at the time of
-creating this game it was a great feat for us with out high school level programming experience.)
+_(This was programmed before we had learned object oriented, and does not represent our programming skill today, but at the time of
+creating this game it was a great feat for us with out high school level programming experience.)_
 
 Disclaimer: There may be a few bugs since the project is no longer in development.
 Java
