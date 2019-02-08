@@ -1,5 +1,8 @@
 # TreasureQuest
-MY FINAL NETWORKING CPT for GRADE 12
+FINAL NETWORKING CPT for GRADE 12, worked with Mogen Cheng and Mark Abadir on this project. At the time, we did not use github.
+
+(This was programmed before we had learned object oriented, and does not represent our programming skill today, but at the time of
+creating this game it was a great feat for us with out high school level programming experience.)
 
 Disclaimer: There may be a few bugs since the project is no longer in development.
 Java
@@ -14,7 +17,7 @@ Features:
 If you'd like to play the game, you can find the JAR file in the "\release" folder.
 
 Notice: On macOS or OS X, use arrow keys to move.
-Also notice: There are no folders because my teammates wanted all data in the home directory (what?????).
+Also notice: There are no folders because we were naive at the time of how many files the game would contain.
 
 Screenshots: http://imgur.com/a/uutZb
 
